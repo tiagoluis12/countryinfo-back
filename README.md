@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <h1 align="center">Countrypedia: Exploring the Nations of the World</h3>
+  <h1 align="center">Country Information: Exploring the Nations of the World</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -39,9 +39,9 @@ This is the Backend part of the "Country Information" Project By Bounce Insights
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/tiagoluis12/app-countryinfo
+$ git clone https://github.com/tiagoluis12/countryinfo-back
 # Access the project folder in your terminal
-$ cd countryinfo-react
+$ cd countryinfo-back
 # Install the dependencies
 $ npm i
 # Run the application
